@@ -9,8 +9,7 @@ em desenvolvimento Full-Stack, autenticação segura e integração com serviço
 Demonstração
 
 O projeto está hospedado e pronto para testes:
-*   **Frontend:** [https://seucofrebr.onrender.com](https://seucofrebr.onrender.com)
-*   **Backend (API):** [https://seucofre-api.onrender.com](https://seucofre-api.onrender.com)
+*   **Site Pronto:** [https://seucofrebr.onrender.com](https://seucofrebr.onrender.com)
 
 ---
 
